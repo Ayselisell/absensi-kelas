@@ -35,6 +35,6 @@ Sistem ini mendukung 3 jenis pengguna: **Admin**, **Guru**, dan **Siswa**.
 ## 📊 Flowchart Sistem
 Berikut adalah gambaran alur sistem untuk masing-masing pengguna:
 
-![Flowchart](flowchart.svg)
+![Flowchart](draw.io)
 
 
