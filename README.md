@@ -36,5 +36,7 @@ Sistem ini mendukung 3 jenis pengguna: **Admin**, **Guru**, dan **Siswa**.
 Berikut adalah gambaran alur sistem untuk masing-masing pengguna:
 
 ![Flowchart](flowchartnew1.drawio.svg)
+![UseCase](usecaseabsensi.drawio.svg)
+
 
 
