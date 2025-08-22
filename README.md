@@ -32,13 +32,13 @@ Sistem ini mendukung 3 jenis pengguna: **Admin**, **Guru**, dan **Siswa**.
 
 ---
 
-## 📊 Flowchart Sistem
-Berikut adalah gambaran alur sistem untuk masing-masing pengguna:
+## 📊 Flowchart 
+ini adalah flowchart
 
 ![Flowchart](flowchartnew1.drawio.svg)
 
-## 📊 UseCase sistem
-Berikut adalah gambaran alur sistem untuk masing-masing pengguna:
+## 📊 UseCase 
+ini adalah diagram usecase 
 ![UseCase](usecaseabsensi.drawio.svg)
 
 
