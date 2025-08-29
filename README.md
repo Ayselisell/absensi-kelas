@@ -1,23 +1,23 @@
-# 📚 Web Absensi Siswa
+# Web Absensi Siswa
 
 Aplikasi **Web Absensi Siswa** adalah sistem berbasis web untuk mengelola kehadiran siswa secara digital.  
 Sistem ini mendukung 3 jenis pengguna: **Admin**, **Guru**, dan **Siswa**.
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-### 👩‍💼 Admin
+###  Admin
 - Login Admin
 - Mengelola data pengguna (Guru & Siswa)
 - Mengelola jadwal pelajaran
 - Melihat laporan absensi
 
-### 👨‍🏫 Guru
+###  Guru
 - Login Guru
 - Melihat jadwal mengajar
 - Mengisi absensi siswa sesuai jadwal
 - Melihat rekap absensi
 
-### 👩‍🎓 Siswa
+###  Siswa
 - Login Siswa
 - Melihat jadwal pelajaran
 - Melihat status kehadiran pribadi
@@ -32,12 +32,12 @@ Sistem ini mendukung 3 jenis pengguna: **Admin**, **Guru**, dan **Siswa**.
 
 ---
 
-## 📊 Flowchart 
+##  Flowchart 
 ini adalah flowchart
 
 ![Flowchart](flowchartnew1.drawio.svg)
 
-## 📊 UseCase 
+##  UseCase 
 ini adalah diagram usecase 
 
 ![UseCase](usecaseabsensi.drawio.svg)
