@@ -22,15 +22,13 @@ Sistem ini mendukung 3 jenis pengguna: **Admin**, **Guru**, dan **Siswa**.
 - Melihat jadwal pelajaran
 - Melihat status kehadiran pribadi
 
----
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Backend:** PHP
 - **Database:** MySQL/MariaDB
 - **Diagram:** draw.io (file XML tersedia di `/docs/flowchart.xml`)
 
----
 
 ##  Flowchart 
 ini adalah flowchart
